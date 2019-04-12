@@ -32,13 +32,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM is the document object model.  In other words, it is a representation of our code in the brewers’ DOM api.
+
 2. What is an event?
+
+An action or response that happens within the DOM often by users that can cause trigger interactions with a website or web app and it’s data.
+
 
 3. What is an event listener?
 
+A DOM setting that allows developers to set functions that await for an event to trigger them.  That could be a mouse click, submit, scrolling etc.
+
 4. Why would we convert a NodeList into an Array?
 
+In order to use Array methods such as map.   NodeLists only have the forEach method.
+
 5. What is a component?
+
+A block of code that is reusable.  It could be just a grouping of CSS and HTML or it could include JS as well.   
+
 
 ### Git Set up
 
